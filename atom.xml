@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TonEtoile.github.io</id>
     <title>TonEtoile</title>
-    <updated>2024-01-14T17:23:40.245Z</updated>
+    <updated>2024-02-07T06:13:02.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://TonEtoile.github.io"/>
     <link rel="self" href="https://TonEtoile.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://TonEtoile.github.io/images/avatar.png</logo>
     <icon>https://TonEtoile.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, TonEtoile</rights>
+    <entry>
+        <title type="html"><![CDATA[【露中】从门口do到阁楼（R）]]></title>
+        <id>https://TonEtoile.github.io/post/lu-zhong-cong-men-kou-do-dao-ge-lou-r/</id>
+        <link href="https://TonEtoile.github.io/post/lu-zhong-cong-men-kou-do-dao-ge-lou-r/">
+        </link>
+        <updated>2024-02-07T06:10:44.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【露中】长夜梦魇（R）]]></title>
+        <id>https://TonEtoile.github.io/post/lu-zhong-chang-ye-meng-yan-r/</id>
+        <link href="https://TonEtoile.github.io/post/lu-zhong-chang-ye-meng-yan-r/">
+        </link>
+        <updated>2024-02-07T06:06:15.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[盲契（27）R]]></title>
         <id>https://TonEtoile.github.io/post/mang-qi-27r/</id>
@@ -65,19 +79,5 @@
         <link href="https://TonEtoile.github.io/post/lu-zhong-yu-he-nan-tian-r/">
         </link>
         <updated>2022-12-04T04:52:43.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【露中】猎艳游戏（下）]]></title>
-        <id>https://TonEtoile.github.io/post/lu-zhong-xi-yan-you-xi-xia/</id>
-        <link href="https://TonEtoile.github.io/post/lu-zhong-xi-yan-you-xi-xia/">
-        </link>
-        <updated>2022-10-13T14:08:37.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【露中】猎艳游戏（中）]]></title>
-        <id>https://TonEtoile.github.io/post/lu-zhong-xi-yan-you-xi-zhong/</id>
-        <link href="https://TonEtoile.github.io/post/lu-zhong-xi-yan-you-xi-zhong/">
-        </link>
-        <updated>2022-10-12T13:52:31.000Z</updated>
     </entry>
 </feed>
