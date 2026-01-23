@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TonEtoile.github.io</id>
     <title>TonEtoile</title>
-    <updated>2025-12-19T15:09:46.760Z</updated>
+    <updated>2026-01-23T15:25:12.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://TonEtoile.github.io"/>
     <link rel="self" href="https://TonEtoile.github.io/atom.xml"/>
     <subtitle>欢迎来到我们的秘密花园</subtitle>
     <logo>https://TonEtoile.github.io/images/avatar.png</logo>
     <icon>https://TonEtoile.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2025, TonEtoile</rights>
+    <rights>All rights reserved 2026, TonEtoile</rights>
+    <entry>
+        <title type="html"><![CDATA[劣等教学（4）]]></title>
+        <id>https://TonEtoile.github.io/post/ldjx4/</id>
+        <link href="https://TonEtoile.github.io/post/ldjx4/">
+        </link>
+        <updated>2026-01-23T15:23:21.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[劣等教学（2）]]></title>
         <id>https://TonEtoile.github.io/post/ldjx2/</id>
@@ -272,12 +279,5 @@
         <link href="https://TonEtoile.github.io/post/lu-zhong-gong-fei-lian-ai-liang-wan-nian-r/">
         </link>
         <updated>2023-08-02T18:40:18.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【露中】溺崖（R）]]></title>
-        <id>https://TonEtoile.github.io/post/lu-zhong-ni-ya-r/</id>
-        <link href="https://TonEtoile.github.io/post/lu-zhong-ni-ya-r/">
-        </link>
-        <updated>2023-03-31T11:43:21.000Z</updated>
     </entry>
 </feed>
